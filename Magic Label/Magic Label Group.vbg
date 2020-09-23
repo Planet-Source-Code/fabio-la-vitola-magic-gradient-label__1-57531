@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=..\Magic Label\MagicLabel.vbp
+Project=..\Magic Label\Project1.vbp
